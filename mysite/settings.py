@@ -25,7 +25,7 @@ SECRET_KEY = ')w-8^xuw_5#l5f_xy@7%qd5v)t5!9=9yvuy-^3us2+bkweonk)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gainizh.pythonanywhere.com']
 
 
 # Application definition
